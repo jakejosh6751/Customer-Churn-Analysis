@@ -24,9 +24,9 @@ This project focuses on analyzing customer demographics, account features, and t
 ![activity.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/activity.jpg)
 ![key insights.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/key%20insights.jpg)
 ![further.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/further.jpg)
-![recommendations.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/recommendations.jpg)
 
 ## Recommendations
+![recommendations.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/recommendations.jpg)
 
 ## Techniques & Procedures
 
