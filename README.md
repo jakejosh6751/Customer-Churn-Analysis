@@ -14,8 +14,11 @@ This project focuses on analyzing customer demographics, account features, and t
 - Develop actionable insights and recommendations for improving customer retention strategies.
 
 ## Key Insights
-
 ![churn distribution.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/churn%20distribution.jpg)
+![credit score.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/credit%20score.jpg)
+
+
+
 
 ## Recommendations
 
