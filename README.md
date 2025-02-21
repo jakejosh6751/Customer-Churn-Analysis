@@ -15,7 +15,7 @@ This project focuses on analyzing customer demographics, account features, and t
 
 ## Key Insights
 
-![manufacturing downtime report_1.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis-/blob/main/manufacturing%20downtime%20report_1.jpg)
+![churn distribution.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/churn%20distribution.jpg)
 
 ## Recommendations
 
