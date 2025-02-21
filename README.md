@@ -17,14 +17,14 @@ This project focuses on analyzing customer demographics, account features, and t
 ![churn distribution.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/churn%20distribution.jpg)
 ![credit score.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/credit%20score.jpg)
 ![geography.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/geography.jpg)
-![gender.jpg]()
-![age.jpg]()
-![balance.jpg]()
-![num of products.jpg]()
-![activity.jpg]()
-![key insights.jpg]()
-![further.jpg]()
-![recommendations.jpg]()
+![gender.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/gender.jpg)
+![age.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/age.jpg)
+![balance.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/balance.jpg)
+![num of products.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/num%20of%20products.jpg)
+![activity.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/activity.jpg)
+![key insights.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/key%20insights.jpg)
+![further.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/further.jpg)
+![recommendations.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/recommendations.jpg)
 
 ## Recommendations
 
