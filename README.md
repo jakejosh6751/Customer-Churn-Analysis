@@ -16,6 +16,7 @@ This project focuses on analyzing customer demographics, account features, and t
 
 ## Key Insights
 ![churn distribution.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/churn%20distribution.jpg)
+__
 ![credit score.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/credit%20score.jpg)
 ![geography.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/geography.jpg)
 ![gender.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/gender.jpg)
