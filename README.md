@@ -6,11 +6,10 @@
 Analyzed customer demographics, account features, and transactions using Microsoft Excel to identify factors driving customer churn and provided insights to improve retention efforts.
 
 ## Key Objectives
-- Clean and prepare the data to ensure accuracy and consistency.
-- Perform exploratory data analysis (EDA) to uncover customer trends and behaviors.
-- Identify key differences between churned and retained customers.
-- Segment customers to identify high-risk groups for targeted retention efforts.
-- Develop actionable insights and recommendations for improving customer retention strategies.
+- Uncover customer trends through exploratory data analysis.
+- Identify differences between churned and retained customers.
+- Segment customers to pinpoint high-risk groups.
+- Provide insights and recommendations to improve retention strategies.
 
 ## Key Insights
 ![churn distribution.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/churn%20distribution.jpg)
