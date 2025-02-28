@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Analyzed customer demographics, account features, and transactions using Microsoft Excel to identify factors driving customer churn and provided insights to improve retention efforts.
+Analyzed bank customers demographics, account features, and transactions using Microsoft Excel to identify factors driving customer churn and provided insights to improve retention efforts.
 
 ## Key Objectives
 - Uncover customer trends through exploratory data analysis.
