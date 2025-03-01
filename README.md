@@ -1,5 +1,4 @@
 # Customer Retention Analysis
-![banner - retention analysis.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/banner%20-%20retention%20analysis.jpg)
 
 Analyzed bank customers demographics, account features, and transactions using Microsoft Excel to identify factors driving customer churn and provided insights to improve retention efforts.
 
