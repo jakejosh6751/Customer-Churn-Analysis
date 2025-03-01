@@ -5,12 +5,6 @@
 
 Analyzed bank customers demographics, account features, and transactions using Microsoft Excel to identify factors driving customer churn and provided insights to improve retention efforts.
 
-## Key Objectives
-- Uncover customer trends through exploratory data analysis.
-- Identify differences between churned and retained customers.
-- Segment customers to pinpoint high-risk groups.
-- Provide insights and recommendations to improve retention strategies.
-
 ## Key Insights
 ![churn distribution.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/churn%20distribution.jpg)
 ![credit score.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/credit%20score.jpg)
