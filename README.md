@@ -52,7 +52,7 @@ Feature names and categorical values were standardized as follows:
 - Binary values ("0, 1") in "Churned" were replaced with "Retained, Churned."
 
 #### Calculations:
-The SUM function and division formulas were utilized to calculate churn percentages for categorical features based on aggregated values from pivot tables.
+The % of Row Total feature in pivot tables was utilized to calculate churn percentages for categorical features and grouped numerical featurea.
 
 #### Data Exploration and Visualization:
 - Pie Chart: Displayed the distribution of "Retained" and "Churned" customers.
