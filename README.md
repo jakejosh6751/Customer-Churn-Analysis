@@ -6,6 +6,12 @@ Analyzed bank customers' demographics, account features, and transactions using 
 ![customer churn report_2.jpg](https://github.com/jakejosh6751/Customer-Retention-Analysis/blob/main/customer%20churn%20report_2.jpg)
 
 - Older customers are more likely to churn with a noticeable peak around 40s - 60s.
+- Germany's churnrate (32%) is double that of France (16%) and significantly higher than Spain's (17%), indicating an urgent need for targeted retention.
+- Female customers exhibit a higher churn rate, signaling a potential need to address gender-specific preferences.
+- Customers with lower credit scores have the highest churn rate.
+- Inactive customers have almost double the churn rate of active customers.
+- Churn risk increases sharply for high balance customers and remains moderate across mid-tier balances.
+- Customers with 2 products are the most stable. Interestingly, customers with 3 or 4 products have higher churn rates.
 
 ## Recommendations
 ![recommendations.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/recommendations.jpg)
