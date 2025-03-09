@@ -24,7 +24,10 @@ Analyzed bank customers' demographics, account features, and transactions using 
 - Number of Products: 3 & 4
 
 ## Key Retention Strategies
-![recommendations.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/recommendations.jpg)
+- Offer loyalty programs with perks like fee waivers and personalized services to retain highvalue customers.
+- Behavior-Based Reactivation:Identify and target inactive customers with tailored offers and product recommendations to reduce churn.
+- Cross-Sell Bundled Products:Promote relevant product bundles to increase engagement and reduce churn linked to product usage. Additional data on specific products would strengthen this analysis.
+- Gender-Specific Retention:Develop targeted offers and engagement strategies for female customers.
 
 ## Churn Prediction Feasibility
 Churn can be predicted using machine learning models (e.g., Logistic Regression, Random Forest) with these variables. Factors like age, bank balance, geography, and activity status would likely be strong predictors of churn.
