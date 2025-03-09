@@ -20,8 +20,8 @@ Analyzed bank customers' demographics, account features, and transactions using 
 - Geography: German
 - Bank Balance: Highest
 - Activity Status: Inactive
-- Number of Products:4
-- Credit Score:Lower
+- Number of Products: 3 & 4
+- Credit Score: Lower
 
 ## Recommendations
 ![recommendations.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/recommendations.jpg)
