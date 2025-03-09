@@ -2,16 +2,8 @@
 Analyzed bank customers' demographics, account features, and transactions using Microsoft Excel to identify factors driving customer churn, and providing insights to enhance retention efforts.
 
 ## Key Insights
-![churn distribution.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/churn%20distribution.jpg)
-![credit score.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/credit%20score.jpg)
-![geography.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/geography.jpg)
-![gender.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/gender.jpg)
-![age.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/age.jpg)
-![balance.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/balance.jpg)
-![num of products.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/num%20of%20products.jpg)
-![activity.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/activity.jpg)
-![key churn attributes.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/key%20churn%20attributes.jpg)
-![further.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/further.jpg)
+![customer churn report_1.jpg](https://github.com/jakejosh6751/Customer-Retention-Analysis/blob/main/customer%20churn%20report_1.jpg)
+![customer churn report_2.jpg](https://github.com/jakejosh6751/Customer-Retention-Analysis/blob/main/customer%20churn%20report_2.jpg)
 
 ## Recommendations
 ![recommendations.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/recommendations.jpg)
