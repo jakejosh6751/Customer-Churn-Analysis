@@ -18,7 +18,7 @@ Analyzed bank customers' demographics, account features, and transactions using 
 - Age: Older
 - Geography: German
 - Gender: Female
-- Credit Score: Lower
+- Credit Score: Lowest
 - Activity Status: Inactive
 - Bank Balance: Highest
 - Number of Products: 3 & 4
