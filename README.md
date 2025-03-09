@@ -5,6 +5,8 @@ Analyzed bank customers' demographics, account features, and transactions using 
 ![customer churn report_1.jpg](https://github.com/jakejosh6751/Customer-Retention-Analysis/blob/main/customer%20churn%20report_1.jpg)
 ![customer churn report_2.jpg](https://github.com/jakejosh6751/Customer-Retention-Analysis/blob/main/customer%20churn%20report_2.jpg)
 
+- Older customers are more likely to churn compared to younger customers, with a noticeable peak around ages 40-60.
+
 ## Recommendations
 ![recommendations.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/recommendations.jpg)
 
