@@ -14,7 +14,7 @@ Analyzed bank customers' demographics, account features, and transactions using 
 - Churn risk increases sharply for high balance customers and remains moderate across mid-tier balances.
 - Customers with 2 products are the most stable. Interestingly, customers with 3 or 4 products have higher churn rates.
 
-## Common Attributes of Churners:
+## Common Attributes of Churners
 - Age: Older
 - Geography: German
 - Gender: Female
@@ -23,8 +23,11 @@ Analyzed bank customers' demographics, account features, and transactions using 
 - Bank Balance: Highest
 - Number of Products: 3 & 4
 
-## Recommendations
+## Key Retention Strategies
 ![recommendations.jpg](https://github.com/jakejosh6751/Bank-Customer-Retention-Analysis/blob/main/recommendations.jpg)
+
+## Churn Prediction Feasibility
+Churn can be predicted using machine learning models (e.g., Logistic Regression, Random Forest) with these variables. Factors like age, bank balance, geography, and activity status would likely be strong predictors of churn.
 
 ## Techniques & Procedures
 
