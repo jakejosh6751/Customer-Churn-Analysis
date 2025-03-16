@@ -35,7 +35,7 @@ Churn can be predicted using machine learning models (e.g., Logistic Regression,
 ## Techniques & Procedures
 
 #### Data Import and Cleaning:
-A dataset containing 13 features, including "Credit Score," "Geography," "Gender," and "Age," among others, with 10,000 records, was imported into Excel as a single table. Upon review, no missing data or duplicate records were identified.
+A dataset containing 13 features, including "Credit Score", "Geography", "Gender", and "Age" among others, with 10,000 records, was imported into Excel as a single table. Upon review, no missing data or duplicate records were identified.
 
 #### Pivot Tables:
 Pivot tables were created in separate sheets for each feature to analyze relationships with customer churn.
