@@ -37,8 +37,10 @@ Churn can be predicted using machine learning models (e.g., Logistic Regression,
 #### Data Import and Cleaning:
 A dataset containing 13 features, including "Credit Score", "Geography", "Gender", and "Age" among others, with 10,000 records, was imported into Excel as a single table. Upon review, no missing data or duplicate records were identified.
 
-#### Pivot Tables:
+#### Pivot Tables and Calculations:
 Pivot tables were created in separate sheets for each feature to analyze impact on customer churn.
+
+The "Show Values As" % of Row Total feature in pivot tables was utilized to calculate churn percentages for categorical features and grouped numerical features.
 
 #### Header & Category Labeling:
 For better readability and intuition, feature names and categories were renamed as follows:
@@ -50,9 +52,6 @@ For better readability and intuition, feature names and categories were renamed 
 - "Exited" renamed to "Churned."
 - Binary values ("0, 1") in "Has Credit Card" and "Active Customer" were converted to "No, Yes."
 - Binary values ("0, 1") in "Churned" were replaced with "Retained, Churned."
-
-#### Pivot Table Calculations:
-The "Show Values As" % of Row Total feature in pivot tables was utilized to calculate churn percentages for categorical features and grouped numerical features.
 
 #### Data Exploration and Visualization:
 - Pie Chart: Illustrated the proportion of "Retained" vs. "Churned" customers, providing a clear view of customer retention dynamics.
