@@ -51,7 +51,7 @@ For better readability and intuition, feature names and categories were renamed 
 - Binary values ("0, 1") in "Has Credit Card" and "Active Customer" were converted to "No, Yes."
 - Binary values ("0, 1") in "Churned" were replaced with "Retained, Churned."
 
-#### Calculations:
+#### Pivot Table Calculations:
 The "Show Values As" % of Row Total feature in pivot tables was utilized to calculate churn percentages for categorical features and grouped numerical features.
 
 #### Data Exploration and Visualization:
