@@ -55,5 +55,5 @@ For better readability and intuition, feature names and categories were renamed 
 The "Show Values As" % of Row Total feature in pivot tables was utilized to calculate churn percentages for categorical features and grouped numerical features.
 
 #### Data Exploration and Visualization:
-- Pie Chart: Displayed the distribution of "Retained" and "Churned" customers.
-- Bar and Column Charts: Were utilized to show the percentage contribution to churn for each category for categorical features and for each aggregate for numerical features.
+- Pie Chart: Illustrated the proportion of "Retained" vs. "Churned" customers, providing a clear view of customer retention dynamics.
+- Bar and Column Charts: Were leveraged to analyze churn contribution—categorical features were broken down by percentage impact on churn, while numerical features were aggregated to highlight their influence on customer attrition.
