@@ -6,7 +6,7 @@ Analyzed bank customers' demographics and account features using Microsoft Excel
 ![customer churn report_2.jpg](https://github.com/jakejosh6751/Customer-Retention-Analysis/blob/main/customer%20churn%20report_2.jpg)
 
 - The majority of customers have not churned, but a significant portion (20%) have.
-- Older customers are more likely to churn with a noticeable peak around forties to sixties.
+- Older customers are more likely to churn with a noticeable peak around the forties to sixties.
 - Germany's churn rate is double that of France and significantly higher than Spain's, indicating an urgent need for targeted retention.
 - Female customers exhibit a higher churn rate, signaling a potential need to address gender-specific preferences.
 - Customers with lower credit scores have the highest churn rate.
