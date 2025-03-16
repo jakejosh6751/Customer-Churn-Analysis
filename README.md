@@ -40,8 +40,8 @@ A dataset containing 13 features, including "Credit Score," "Geography," "Gender
 #### Pivot Tables:
 Pivot tables were created in separate sheets for each feature to analyze relationships with customer churn.
 
-#### Data Cleaning Process:
-Feature names and categorical values were standardized as follows:
+#### Header & Category Labeling:
+For better readability and intuition, feature names and categories were renamed as follows:
 
 - "CreditScore" renamed to "Credit Score."
 - "NumOfProducts" renamed to "Number of Products."
