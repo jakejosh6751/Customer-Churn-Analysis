@@ -1,7 +1,6 @@
 # Customer Churn Analysis
-Analyzed bank customers' demographics and account features to identify factors driving customer churn. Extracted insights to enhance retention efforts.
+Analyzed bank customers' demographics and account features to identify factors driving customer churn. Derived insights to enhance retention efforts.
 
-## Key Insights
 ![customer churn report_1.jpg](https://github.com/jakejosh6751/Customer-Retention-Analysis/blob/main/customer%20churn%20report_1.jpg)
 ![customer churn report_2.jpg](https://github.com/jakejosh6751/Customer-Retention-Analysis/blob/main/customer%20churn%20report_2.jpg)
 
@@ -32,7 +31,7 @@ Analyzed bank customers' demographics and account features to identify factors d
 ## Churn Prediction Feasibility
 Churn can be predicted using machine learning models (e.g., Logistic Regression, Random Forest) with these variables. Factors like age, bank balance, geography, and activity status would likely be strong predictors of churn.
 
-## Techniques & Procedures
+## Analysis Procedure
 
 #### Data Import and Cleaning:
 A dataset containing 13 features, including "Credit Score", "Geography", "Gender", and "Age" among others, with 10,000 records, was imported into Excel as a single table. Upon review, no missing data or duplicate records were identified.
