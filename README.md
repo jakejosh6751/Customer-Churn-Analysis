@@ -1,5 +1,5 @@
 # Customer Churn Analysis
-Analyzed bank customers' demographics and account features to identify factors driving customer churn. Derived insights to enhance retention efforts.
+Analyzed bank customers' demographics and account features. Identified factors driving customer churn. Derived insights to enhance retention efforts.
 
 ![customer churn report_1.jpg](https://github.com/jakejosh6751/Customer-Retention-Analysis/blob/main/customer%20churn%20report_1.jpg)
 ![customer churn report_2.jpg](https://github.com/jakejosh6751/Customer-Retention-Analysis/blob/main/customer%20churn%20report_2.jpg)
